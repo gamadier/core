@@ -1,0 +1,141 @@
+.conteiner1{
+    display: flex;
+    justify-content: space-around;
+    background-color:#2d3e50;
+    color: white;
+    }
+    .link{
+        display: flex;
+        justify-content: center;
+        padding: 40px;
+        gap: 40px;
+        margin-left: 500px;
+    }
+    .link a{
+        color: white;
+        }
+        .conteiner1 button{
+            height: 30px;
+            display: flex;
+            margin-top: 35px;
+            background-color: aqua;
+            border: #2d3e50;
+            border-radius: 10px;
+            
+        }
+        .conteiner{
+            text-align: center;
+            box-shadow: 0 0 10px rgba(0, 0 , 0, 0.5);
+            width: 500px;
+            border-radius: 40px;
+            position: relative;
+            top: 100px;
+            height: 550px;
+            
+            
+        }
+        .link2{
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+           }
+           .conteiner img{
+               width: 200px;
+               height: 200px;
+               border-radius: 100px;
+               position: relative;
+               top: -80px;
+           }
+           .solicitud{
+            box-shadow: 0 0 10px;
+            height: 500px;
+            width: 600px;
+            margin-top: 100px;
+            border-radius: 30px;
+            height: 200px;
+            width: 400px;
+            margin-left: 400px;  
+        }
+        .solicitud button{
+            margin-right: 170px;
+        }
+        .nombres{
+            margin-right: 100px;
+            display: inline-block;
+            
+        }
+        .foto img{
+            height: 30px;
+            width: 30px;
+            
+        }
+        .foto2 img{
+            height: 30px;
+            margin-top: 20px;
+            
+        }
+
+        
+.solicitud{
+    padding: 10px;
+    box-shadow: 0 0 10px;
+    height: 500px;
+    width: 600px;
+    margin-top: 100px;
+    border-radius: 30px;
+    height: 200px;
+    width: 400px;
+    margin-left: 400px;
+    
+}
+.flex2{
+ display: flex;
+}
+.flex2 button{
+    height: 30px;
+    width: 100px;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+.caja{
+    padding: 50px;
+}
+.nombres{
+    margin-right: 100px;
+    display: inline-block;
+    
+}
+.foto img{
+    height: 30px;
+    width: 30px;
+    
+}
+.conexiones{
+    margin-top: 100px;
+    box-shadow: 0 0 10px;
+    border-radius: 20px;
+}
+.flex2{
+    margin-right: 40px;
+}
+    
+.conexiones img{
+    
+    height: 30px;
+    width: 30px;
+    
+    
+}
+
+
+
+
+        
+.layout {
+    width: 100%;
+  
+    display: flex;
+    gap: 16px;
+  
+    justify-content: center;
+}
